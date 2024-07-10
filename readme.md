@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking for internship opportunities.<br>I'm learning Native Android Development , System Design , DSA.<br>Ask me About C++ , Java , Kotlin , RecyclerView , Retrofit
+I'm looking for internship opportunities.<br>I'm learning Native Android Development , System Design , DSA.<br>Ask me About C++ , Java , Kotlin , RecyclerView , Retrofit , Coroutines
 
 
 ## 🌐 Socials:
